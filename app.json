@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a11ebf9b-c473-4052-9795-972e4bc57c71"
+      }
+    },
+    "owner": "pawarisa_09"
   }
 }
